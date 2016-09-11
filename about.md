@@ -4,7 +4,7 @@ title: about
 permalink: /about/
 ---
 
-<img class="col one right" src="/img/profile.jpg">
+<img class="col one right" src="{{ site.baseurl }}/img/profile.jpg">
 
 <br/>
 I've been doodling and drawing my whole life, but never anything serious. Started working as a webdesigner in 1999, as I figured I could use my creative energy to build websites.
