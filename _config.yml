@@ -23,9 +23,6 @@ collections:
   portfolio:
     output: false
     permalink: /portfolio/:path/
-  poetry:
-    output: false
-    permalink: /poetry/:path/
   articles:
     output: false
     permalink: /articles/:path/
