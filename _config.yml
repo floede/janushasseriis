@@ -7,6 +7,7 @@ baseurl:  /janushasseriis
 url:  # the base hostname & protocol for your site
 twitter_username: floede
 github_username:  floede
+timezone: Europe/Copenhagen
 
 # Build settings
 markdown: kramdown

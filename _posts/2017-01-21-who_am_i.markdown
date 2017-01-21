@@ -1,0 +1,38 @@
+---
+layout: post
+title:  who am I?
+date:   2017-01-21 23:55:00+0100
+description: a brief story about why I'm writing this
+---
+My name is Janus Hasseriis and I have been working with the internet since 1999. My work now is Frontend Developer, but actually I have been doing that since it was called Web Designer.
+
+I graduated in ‘99 after two years of educating myself to become a project manager with a focus IT projects, but during training **I found it much more exciting to create websites** than to manage the projects that would make them.
+
+Even before I got my first real job, I just had an internship with a very large and reputable Danish webbureau. I became very aware of how difficult it can be to make a project based on a lot of unknown factors.
+
+# Projects will fail
+
+Now after many years as a developer, those kinds of experiences have made me wonder why projects fail. Along with the frustration among those I’ve worked with and my natural desire to ask questions of my surroundings and not least myself.
+And it turns out that there are actually a number of good reasons for the failures, and in fact it is as much luck as it is deliberate effort when projects go well. At least if they are managed after the traditional model of a project, that we’ve sort of inherited from the industrial age.
+
+For a long time I worked at DR that besides tv and radio also runs one of the biggest websites in Denmark. Through the years I observed how our internal customers and management in my department were almost at war to determine where the blame should be placed when something went wrong.
+Just like everywhere else, **projects constantly missed their deadline**, or websites failed when they were launched, or apps couldn’t do what they were was supposed to do etc etc.
+
+# Avoid the failures
+
+The common and understandable reaction to the kind of experience is to try to avoid them for the next project.
+The client try to work out a more thoughtful, precise and detailed description of the desired product.
+The project manager will try to articulate exactly what information, resources, and so on the client needs to deliver. Preferably with deadlines and even fees.
+Together they try to formulate a requirements specification. And so **nothing can go wrong of course**. Wrong. It goes just as wrong as it always does.
+
+*And to spend hours and days on estimates, subcontracting agreements, and so on would not make much difference.*
+
+It is clear to me that we have to look at web projects with brand new eyes.
+The good thing is that we actually do not have to start from scratch, and there are clues and pointers as to where we need to look and which eyes we need for the job.
+
+There are plenty of companies and projects that have taken a different path than the traditional  and has achieved great success with it.
+
+Agile has been a bit of a buzzword in the IT industry in recent years, and Agile is certainly in the right spirit. **But more is needed**.
+Agile describes a way to run projects solely from an ideological point of view and based on the team.
+
+I believe that the Agile mindset or what I would call value-based project management, is not just a good idea, it's also the only way to do things in the future for companies that want to remain competitive in the IT field.
